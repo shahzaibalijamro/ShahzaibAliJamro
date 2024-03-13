@@ -7,8 +7,8 @@ Hello there! 👋 I'm Shahzaib Ali, an 18-year-old enthusiast passionate about w
 
 ## Projects
 Here are some of the projects I've worked on:
-- [Project 1: Project Name]([link](https://noon-assignment.netlify.app/)) - A fully responsive Noon app clone made by me using HTML,CSS and Bootstrap.
-- [Project 2: Project Name]([link](https://salt-n-pepper-assignment.netlify.app/)) - Salt'n'Pepper website clone. Fully responsive, multipage website made by me using HTML,CSS.
+- [Project 1: Project Name](https://noon-assignment.netlify.app/) - A fully responsive Noon app clone made by me using HTML,CSS and Bootstrap.
+- [Project 2: Project Name](https://salt-n-pepper-assignment.netlify.app/) - Salt'n'Pepper website clone. Fully responsive, multipage website made by me using HTML,CSS.
 
 ## Learning Goals
 Currently, my focus is on mastering the MERN Stack, which includes:
