@@ -14,8 +14,6 @@ Here are some of the projects I've worked on:
 Currently, my focus is on mastering the MERN Stack, which includes:
 - Mastering JavaScript.
 - Improving my React.js skills by building more complex and interactive user interfaces.
-- Strengthening my Node.js and Express.js knowledge for robust backend development.
-- Enhancing my MongoDB skills and exploring advanced database concepts.
 
 ## Get in Touch
 Feel free to reach out to me via [LinkedIn](linkedin.com/in/shahzaib-ali-b94a4b2a5/) if you want to collaborate on projects, have any questions, or just want to chat about web development!
