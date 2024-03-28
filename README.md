@@ -19,7 +19,7 @@ Currently, my focus is on mastering the MERN Stack, which includes:
 Feel free to reach out to me via [LinkedIn](linkedin.com/in/shahzaib-ali-b94a4b2a5/) if you want to collaborate on projects, have any questions, or just want to chat about web development!
 
 ## Let's Connect
-- [LinkedIn](linkedin.com/in/shahzaib-ali-b94a4b2a5/)
+- [LinkedIn](linkedin.com/in/shahzaibalijamro/)
 - [GitHub](github.com/ShahzaibAliJamro)
 - [Gmail](shahzaibalijamro@gmail.com)
 
