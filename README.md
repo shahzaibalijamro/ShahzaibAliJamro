@@ -1,4 +1,4 @@
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzaibalijamro&label=Profile%20views&color=0e75b6&style=flat" alt="shahzaibalijamro" /> </p>
 <h1 align="center">Hi, I'm Shahzaib Ali</h1>
 I'm a motivated and detail-oriented frontend developer with a strong foundation in HTML, CSS, and
 JavaScript, and hands-on experience with React and Next.js. I focus on building responsive, userfriendly web applications and optimizing performance for the best user experience. I'm excited to
