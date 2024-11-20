@@ -28,6 +28,8 @@ the end. This project leverages React's component-based architecture to handle u
 and state management, providing a responsive and engaging experience. It demonstrates proficiency
 in React, JavaScript, and integrating third-party APIs to build interactive web applications.
 
+- 👨‍💻 All of my projects are available at [https://shahzaib-ali-jamro.web.app/](https://shahzaib-ali-jamro.web.app/)
+
 ## Learning Goals
 Currently, my focus is on mastering the MERN Stack, which includes:
 - Mastering React.
