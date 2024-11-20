@@ -1,4 +1,5 @@
 ## About Me
+<h1 align="center">Hi , I'm Shahzaib Ali</h1>
 Hello there! 👋 I'm Shahzaib Ali, an 18-year-old enthusiast passionate about web development.
 I'm a motivated and detail-oriented frontend developer with a strong foundation in HTML, CSS, and
 JavaScript, and hands-on experience with React and Next.js. I focus on building responsive, userfriendly web applications and optimizing performance for the best user experience. I'm excited to
