@@ -1,8 +1,7 @@
 ## About Me
 <h1 align="left">Hi, I'm Shahzaib Ali</h1>
-I'm a motivated and detail-oriented frontend developer with a strong foundation in HTML, CSS, and
-JavaScript, and hands-on experience with React and Next.js. I focus on building responsive, userfriendly web applications and optimizing performance for the best user experience. I'm excited to
-apply for an internship where I can grow my skills and contribute to a dynamic development team.
+I'm a motivated and detail-oriented MERN stack developer with a strong foundation in HTML, CSS, and JavaScript, and hands-on experience in building dynamic web applications using React, Next.js, and the MERN stack. I have developed robust backends using Express, MongoDB, and Mongoose, showcasing my ability to design and implement full-stack solutions.
+I'm eager to bring my skills and enthusiasm to an internship opportunity where I can continue to learn, collaborate with a talented team, and contribute to impactful projects.
 
 ## Skills
 
